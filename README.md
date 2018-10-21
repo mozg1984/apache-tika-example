@@ -6,6 +6,6 @@ Simple example of maven project of using Apache Tika (universal extracter of con
 
 ```$ mvn clean install```
 
-2. Runs retrieve content and metada from test file located in the `resources`
+2. Runs to retrieve content and metada from test file located in the `resources`
 
 ```$ java -cp target/apachetika-0.0.1-SNAPSHOT.jar com.example.tika.App```
